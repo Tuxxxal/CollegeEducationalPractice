@@ -10,7 +10,6 @@ namespace CollegeSchedule.Controllers
     {
         private readonly IScheduleService _service;
 
-        // Убираем AppDbContext из конструктора — он не нужен здесь!
         public ScheduleController(IScheduleService service)
         {
             _service = service;

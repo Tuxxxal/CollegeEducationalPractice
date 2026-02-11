@@ -1,4 +1,6 @@
-﻿namespace CollegeSchedule.DTO
+﻿using CollegeSchedule.Services;
+
+namespace CollegeSchedule.DTO
 {
     public class ScheduleByDateDto
     {
