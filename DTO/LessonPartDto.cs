@@ -1,4 +1,4 @@
-﻿namespace CollegeSchedule.Services
+﻿namespace CollegeSchedule.DTO
 {
     public class LessonPartDto
     {

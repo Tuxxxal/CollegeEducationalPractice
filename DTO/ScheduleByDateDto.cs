@@ -1,7 +1,6 @@
-﻿using CollegeSchedule.Services;
-
+﻿
 namespace CollegeSchedule.DTO
-{
+{   
     public class ScheduleByDateDto
     {
         public DateTime LessonDate { get; set; }
